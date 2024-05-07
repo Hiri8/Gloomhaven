@@ -1,0 +1,633 @@
+{
+    "nombres": {
+        "espanol": "",
+        "ingles": "Savvas Lavaflow"
+    },
+    "jefe": false,
+    "niveles": {
+        "0": {
+            "normal": {
+                "stats": {
+                    "vida": 8,
+                    "movimiento": 3,
+                    "ataque": 2,
+                    "rango": 0,
+                    "volador": false
+                },
+                "inmunidades": {
+                    "veneno": false,
+                    "herida": false,
+                    "inmovilizar": false,
+                    "desarmar": false,
+                    "aturdir": false,
+                    "confusion": false,
+                    "maldicion": false,
+                    "empujon": false,
+                    "tiron": false
+                },
+                "efectos": {
+                    "escudo": 0,
+                    "represalia_dano": 0,
+                    "represalia_rango": 0,
+                    "multiobjetivo": 0,
+                    "perforante": 0,
+                    "empujon": 0,
+                    "tiron": 0,
+                    "veneno": false,
+                    "herida": false,
+                    "inmovilizar": false,
+                    "desarmar": false,
+                    "aturdir": false,
+                    "confusion": false,
+                    "maldicion": false,
+                    "desventaja": false,
+                    "ventaja": false
+                }
+            },
+            "elite": {
+                "stats": {
+                    "vida": 13,
+                    "movimiento": 3,
+                    "ataque": 3,
+                    "rango": 0,
+                    "volador": false
+                },
+                "inmunidades": {
+                    "veneno": false,
+                    "herida": false,
+                    "inmovilizar": false,
+                    "desarmar": false,
+                    "aturdir": false,
+                    "confusion": false,
+                    "maldicion": false,
+                    "empujon": false,
+                    "tiron": false
+                },
+                "efectos": {
+                    "escudo": 0,
+                    "represalia_dano": 0,
+                    "represalia_rango": 0,
+                    "multiobjetivo": 0,
+                    "perforante": 0,
+                    "empujon": 0,
+                    "tiron": 0,
+                    "veneno": false,
+                    "herida": false,
+                    "inmovilizar": false,
+                    "desarmar": false,
+                    "aturdir": false,
+                    "confusion": false,
+                    "maldicion": false,
+                    "desventaja": false,
+                    "ventaja": false
+                }
+            }
+        },
+        "1": {
+            "normal": {
+                "stats": {
+                    "vida": 9,
+                    "movimiento": 3,
+                    "ataque": 2,
+                    "rango": 0,
+                    "volador": false
+                },
+                "inmunidades": {
+                    "veneno": false,
+                    "herida": false,
+                    "inmovilizar": false,
+                    "desarmar": false,
+                    "aturdir": false,
+                    "confusion": false,
+                    "maldicion": false,
+                    "empujon": false,
+                    "tiron": false
+                },
+                "efectos": {
+                    "escudo": 0,
+                    "represalia_dano": 0,
+                    "represalia_rango": 0,
+                    "multiobjetivo": 0,
+                    "perforante": 0,
+                    "empujon": 0,
+                    "tiron": 0,
+                    "veneno": true,
+                    "herida": false,
+                    "inmovilizar": false,
+                    "desarmar": false,
+                    "aturdir": false,
+                    "confusion": false,
+                    "maldicion": false,
+                    "desventaja": false,
+                    "ventaja": false
+                }
+            },
+            "elite": {
+                "stats": {
+                    "vida": 15,
+                    "movimiento": 3,
+                    "ataque": 3,
+                    "rango": 0,
+                    "volador": false
+                },
+                "inmunidades": {
+                    "veneno": false,
+                    "herida": false,
+                    "inmovilizar": false,
+                    "desarmar": false,
+                    "aturdir": false,
+                    "confusion": false,
+                    "maldicion": false,
+                    "empujon": false,
+                    "tiron": false
+                },
+                "efectos": {
+                    "escudo": 0,
+                    "represalia_dano": 0,
+                    "represalia_rango": 0,
+                    "multiobjetivo": 0,
+                    "perforante": 0,
+                    "empujon": 0,
+                    "tiron": 0,
+                    "veneno": false,
+                    "herida": true,
+                    "inmovilizar": false,
+                    "desarmar": false,
+                    "aturdir": false,
+                    "confusion": false,
+                    "maldicion": false,
+                    "desventaja": false,
+                    "ventaja": false
+                }
+            }
+        },
+        "2": {
+            "normal": {
+                "stats": {
+                    "vida": 11,
+                    "movimiento": 3,
+                    "ataque": 3,
+                    "rango": 0,
+                    "volador": false
+                },
+                "inmunidades": {
+                    "veneno": false,
+                    "herida": false,
+                    "inmovilizar": false,
+                    "desarmar": false,
+                    "aturdir": false,
+                    "confusion": false,
+                    "maldicion": false,
+                    "empujon": false,
+                    "tiron": false
+                },
+                "efectos": {
+                    "escudo": 0,
+                    "represalia_dano": 0,
+                    "represalia_rango": 0,
+                    "multiobjetivo": 0,
+                    "perforante": 0,
+                    "empujon": 0,
+                    "tiron": 0,
+                    "veneno": true,
+                    "herida": false,
+                    "inmovilizar": false,
+                    "desarmar": false,
+                    "aturdir": false,
+                    "confusion": false,
+                    "maldicion": false,
+                    "desventaja": false,
+                    "ventaja": false
+                }
+            },
+            "elite": {
+                "stats": {
+                    "vida": 18,
+                    "movimiento": 3,
+                    "ataque": 3,
+                    "rango": 0,
+                    "volador": false
+                },
+                "inmunidades": {
+                    "veneno": false,
+                    "herida": false,
+                    "inmovilizar": false,
+                    "desarmar": false,
+                    "aturdir": false,
+                    "confusion": false,
+                    "maldicion": false,
+                    "empujon": false,
+                    "tiron": false
+                },
+                "efectos": {
+                    "escudo": 0,
+                    "represalia_dano": 0,
+                    "represalia_rango": 0,
+                    "multiobjetivo": 0,
+                    "perforante": 0,
+                    "empujon": 0,
+                    "tiron": 0,
+                    "veneno": true,
+                    "herida": true,
+                    "inmovilizar": false,
+                    "desarmar": false,
+                    "aturdir": false,
+                    "confusion": false,
+                    "maldicion": false,
+                    "desventaja": false,
+                    "ventaja": false
+                }
+            }
+        },
+        "3": {
+            "normal": {
+                "stats": {
+                    "vida": 14,
+                    "movimiento": 3,
+                    "ataque": 3,
+                    "rango": 0,
+                    "volador": false
+                },
+                "inmunidades": {
+                    "veneno": false,
+                    "herida": false,
+                    "inmovilizar": false,
+                    "desarmar": false,
+                    "aturdir": false,
+                    "confusion": false,
+                    "maldicion": false,
+                    "empujon": false,
+                    "tiron": false
+                },
+                "efectos": {
+                    "escudo": 0,
+                    "represalia_dano": 0,
+                    "represalia_rango": 0,
+                    "multiobjetivo": 0,
+                    "perforante": 0,
+                    "empujon": 0,
+                    "tiron": 0,
+                    "veneno": true,
+                    "herida": false,
+                    "inmovilizar": false,
+                    "desarmar": false,
+                    "aturdir": false,
+                    "confusion": false,
+                    "maldicion": false,
+                    "desventaja": false,
+                    "ventaja": false
+                }
+            },
+            "elite": {
+                "stats": {
+                    "vida": 21,
+                    "movimiento": 3,
+                    "ataque": 4,
+                    "rango": 0,
+                    "volador": false
+                },
+                "inmunidades": {
+                    "veneno": false,
+                    "herida": false,
+                    "inmovilizar": false,
+                    "desarmar": false,
+                    "aturdir": false,
+                    "confusion": false,
+                    "maldicion": false,
+                    "empujon": false,
+                    "tiron": false
+                },
+                "efectos": {
+                    "escudo": 0,
+                    "represalia_dano": 0,
+                    "represalia_rango": 0,
+                    "multiobjetivo": 0,
+                    "perforante": 0,
+                    "empujon": 0,
+                    "tiron": 0,
+                    "veneno": true,
+                    "herida": true,
+                    "inmovilizar": false,
+                    "desarmar": false,
+                    "aturdir": false,
+                    "confusion": false,
+                    "maldicion": false,
+                    "desventaja": false,
+                    "ventaja": false
+                }
+            }
+        },
+        "4": {
+            "normal": {
+                "stats": {
+                    "vida": 16,
+                    "movimiento": 3,
+                    "ataque": 4,
+                    "rango": 0,
+                    "volador": false
+                },
+                "inmunidades": {
+                    "veneno": false,
+                    "herida": false,
+                    "inmovilizar": false,
+                    "desarmar": false,
+                    "aturdir": false,
+                    "confusion": false,
+                    "maldicion": false,
+                    "empujon": false,
+                    "tiron": false
+                },
+                "efectos": {
+                    "escudo": 0,
+                    "represalia_dano": 0,
+                    "represalia_rango": 0,
+                    "multiobjetivo": 0,
+                    "perforante": 0,
+                    "empujon": 0,
+                    "tiron": 0,
+                    "veneno": true,
+                    "herida": false,
+                    "inmovilizar": false,
+                    "desarmar": false,
+                    "aturdir": false,
+                    "confusion": false,
+                    "maldicion": false,
+                    "desventaja": false,
+                    "ventaja": false
+                }
+            },
+            "elite": {
+                "stats": {
+                    "vida": 24,
+                    "movimiento": 4,
+                    "ataque": 4,
+                    "rango": 0,
+                    "volador": false
+                },
+                "inmunidades": {
+                    "veneno": false,
+                    "herida": false,
+                    "inmovilizar": false,
+                    "desarmar": false,
+                    "aturdir": false,
+                    "confusion": false,
+                    "maldicion": false,
+                    "empujon": false,
+                    "tiron": false
+                },
+                "efectos": {
+                    "escudo": 0,
+                    "represalia_dano": 0,
+                    "represalia_rango": 0,
+                    "multiobjetivo": 0,
+                    "perforante": 0,
+                    "empujon": 0,
+                    "tiron": 0,
+                    "veneno": true,
+                    "herida": true,
+                    "inmovilizar": false,
+                    "desarmar": false,
+                    "aturdir": false,
+                    "confusion": false,
+                    "maldicion": false,
+                    "desventaja": false,
+                    "ventaja": false
+                }
+            }
+        },
+        "5": {
+            "normal": {
+                "stats": {
+                    "vida": 18,
+                    "movimiento": 3,
+                    "ataque": 4,
+                    "rango": 0,
+                    "volador": false
+                },
+                "inmunidades": {
+                    "veneno": false,
+                    "herida": false,
+                    "inmovilizar": false,
+                    "desarmar": false,
+                    "aturdir": false,
+                    "confusion": false,
+                    "maldicion": false,
+                    "empujon": false,
+                    "tiron": false
+                },
+                "efectos": {
+                    "escudo": 0,
+                    "represalia_dano": 0,
+                    "represalia_rango": 0,
+                    "multiobjetivo": 0,
+                    "perforante": 0,
+                    "empujon": 0,
+                    "tiron": 0,
+                    "veneno": true,
+                    "herida": true,
+                    "inmovilizar": false,
+                    "desarmar": false,
+                    "aturdir": false,
+                    "confusion": false,
+                    "maldicion": false,
+                    "desventaja": false,
+                    "ventaja": false
+                }
+            },
+            "elite": {
+                "stats": {
+                    "vida": 27,
+                    "movimiento": 4,
+                    "ataque": 5,
+                    "rango": 0,
+                    "volador": false
+                },
+                "inmunidades": {
+                    "veneno": false,
+                    "herida": false,
+                    "inmovilizar": false,
+                    "desarmar": false,
+                    "aturdir": false,
+                    "confusion": false,
+                    "maldicion": false,
+                    "empujon": false,
+                    "tiron": false
+                },
+                "efectos": {
+                    "escudo": 0,
+                    "represalia_dano": 0,
+                    "represalia_rango": 0,
+                    "multiobjetivo": 0,
+                    "perforante": 0,
+                    "empujon": 0,
+                    "tiron": 0,
+                    "veneno": true,
+                    "herida": true,
+                    "inmovilizar": false,
+                    "desarmar": false,
+                    "aturdir": false,
+                    "confusion": false,
+                    "maldicion": false,
+                    "desventaja": false,
+                    "ventaja": false
+                }
+            }
+        },
+        "6": {
+            "normal": {
+                "stats": {
+                    "vida": 20,
+                    "movimiento": 4,
+                    "ataque": 4,
+                    "rango": 0,
+                    "volador": false
+                },
+                "inmunidades": {
+                    "veneno": false,
+                    "herida": false,
+                    "inmovilizar": false,
+                    "desarmar": false,
+                    "aturdir": false,
+                    "confusion": false,
+                    "maldicion": false,
+                    "empujon": false,
+                    "tiron": false
+                },
+                "efectos": {
+                    "escudo": 0,
+                    "represalia_dano": 0,
+                    "represalia_rango": 0,
+                    "multiobjetivo": 0,
+                    "perforante": 0,
+                    "empujon": 0,
+                    "tiron": 0,
+                    "veneno": true,
+                    "herida": true,
+                    "inmovilizar": false,
+                    "desarmar": false,
+                    "aturdir": false,
+                    "confusion": false,
+                    "maldicion": false,
+                    "desventaja": false,
+                    "ventaja": false
+                }
+            },
+            "elite": {
+                "stats": {
+                    "vida": 30,
+                    "movimiento": 4,
+                    "ataque": 6,
+                    "rango": 0,
+                    "volador": false
+                },
+                "inmunidades": {
+                    "veneno": false,
+                    "herida": false,
+                    "inmovilizar": false,
+                    "desarmar": false,
+                    "aturdir": false,
+                    "confusion": false,
+                    "maldicion": false,
+                    "empujon": false,
+                    "tiron": false
+                },
+                "efectos": {
+                    "escudo": 0,
+                    "represalia_dano": 0,
+                    "represalia_rango": 0,
+                    "multiobjetivo": 0,
+                    "perforante": 0,
+                    "empujon": 0,
+                    "tiron": 0,
+                    "veneno": true,
+                    "herida": true,
+                    "inmovilizar": false,
+                    "desarmar": false,
+                    "aturdir": false,
+                    "confusion": false,
+                    "maldicion": false,
+                    "desventaja": false,
+                    "ventaja": false
+                }
+            }
+        },
+        "7": {
+            "normal": {
+                "stats": {
+                    "vida": 24,
+                    "movimiento": 4,
+                    "ataque": 4,
+                    "rango": 0,
+                    "volador": false
+                },
+                "inmunidades": {
+                    "veneno": false,
+                    "herida": false,
+                    "inmovilizar": false,
+                    "desarmar": false,
+                    "aturdir": false,
+                    "confusion": false,
+                    "maldicion": false,
+                    "empujon": false,
+                    "tiron": false
+                },
+                "efectos": {
+                    "escudo": 0,
+                    "represalia_dano": 0,
+                    "represalia_rango": 0,
+                    "multiobjetivo": 0,
+                    "perforante": 0,
+                    "empujon": 0,
+                    "tiron": 0,
+                    "veneno": true,
+                    "herida": true,
+                    "inmovilizar": false,
+                    "desarmar": false,
+                    "aturdir": false,
+                    "confusion": false,
+                    "maldicion": false,
+                    "desventaja": false,
+                    "ventaja": false
+                }
+            },
+            "elite": {
+                "stats": {
+                    "vida": 35,
+                    "movimiento": 4,
+                    "ataque": 6,
+                    "rango": 0,
+                    "volador": false
+                },
+                "inmunidades": {
+                    "veneno": false,
+                    "herida": false,
+                    "inmovilizar": false,
+                    "desarmar": false,
+                    "aturdir": false,
+                    "confusion": false,
+                    "maldicion": false,
+                    "empujon": false,
+                    "tiron": false
+                },
+                "efectos": {
+                    "escudo": 0,
+                    "represalia_dano": 0,
+                    "represalia_rango": 0,
+                    "multiobjetivo": 0,
+                    "perforante": 0,
+                    "empujon": 0,
+                    "tiron": 0,
+                    "veneno": true,
+                    "herida": true,
+                    "inmovilizar": false,
+                    "desarmar": false,
+                    "aturdir": false,
+                    "confusion": false,
+                    "maldicion": false,
+                    "desventaja": false,
+                    "ventaja": false
+                }
+            }
+        }
+    }
+}
